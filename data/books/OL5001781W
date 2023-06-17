@@ -1,0 +1,17 @@
+
+    //https://covers.openlibrary.org/b/id/10565604-L.jpg
+    // https://openlibrary.org/authors/OL1083609A.json
+
+
+{
+    "title": "Missionary's little book of answers",
+    "subjects": ["Church of Jesus Christ of Latter-Day Saints", "Miscellanea", "Mormon Church", "Mormon missionaries", "Questions and answers", "Training of"], 
+    "key": "/works/OL5001781W",
+    "authors": [{"type": {"key": "/type/author_role"}, "author": {"key": "/authors/OL1083609A"}}],
+    "type": {"key": "/type/work"}, "covers": [10565604],
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {"type": "/type/datetime", "value": "2009-12-10T08:16:54.306806"},
+    "last_modified": {"type": "/type/datetime", "value": "2021-01-23T11:49:23.112096"}
+}
+

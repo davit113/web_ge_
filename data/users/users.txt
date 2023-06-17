@@ -1,0 +1,7 @@
+sirstName=davit lastName=skhiladze email=dat.@gmail.com password=123456
+firstName=dwaf lastName=dadw email=dav@gmail.com password=pass123A
+firstName=d lastName=dadw email=d@d.com password=1111
+firstName=dd lastName=ddd email=davit106@gmail.com password=anmin123
+firstName=dd lastName=ddd email=davit107@gmail.com password=anmin123
+firstName=js lastName=scr email=js@gmail.com password=1111
+firstName=davit lastName=Skhilazde email=davit@gmail.com password=admin
